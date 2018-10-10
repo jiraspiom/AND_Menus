@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="menu_salvar">Salvar</string>
+    <string name="menuEditar">Editar</string>
+</resources>
